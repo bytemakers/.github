@@ -5,8 +5,8 @@ Welcome to DVS Tech Labs!!! 👋 Here You'll Find All The Community Open Source 
 
 Please Find All The Community Repositories Below. 
 
+### Technology. At Your Fingertips.
 
-![Banner Image](procfile/image.JPG)
-
+#### Desktop Development. Mobile Development. Web Development. Ethical Hacking and More.
 
 DVS Tech Labs Public Assets : <a href="https://dtlassets.vercel.app/">https://dtlassets.vercel.app/</a>
