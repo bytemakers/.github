@@ -6,7 +6,7 @@ Welcome to DVS Tech Labs!!! 👋 Here You'll Find All The Community Open Source 
 Please Find All The Community Repositories Below. 
 
 
-![Banner Image](procfile/../image.JPG)
+![Banner Image](procfile/image.JPG)
 
 
 DVS Tech Labs Public Assets : <a href="https://dtlassets.vercel.app/">https://dtlassets.vercel.app/</a>
