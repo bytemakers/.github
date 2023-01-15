@@ -1,7 +1,7 @@
 ##  ByteMakers
 
 
-Welcome to ByteMakers!!! 👋 Here You'll Find All The Community Open Source Of DVS Tech Labs.
+Welcome to ByteMakers!!! 👋 Here You'll Find All The Community Open Source Of ByteMakers.
 
 ### Technology. At Your Fingertips.
 
