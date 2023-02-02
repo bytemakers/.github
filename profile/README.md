@@ -1,4 +1,5 @@
-![bytemakersbanner](../bytemakersbanner.png)
+<img src="../bytemakersbanner.png" alt="profile-readme-banner"
+    style="width: 100%; height: auto;" />
 
 ##  ByteMakers
 
