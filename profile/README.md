@@ -1,4 +1,4 @@
-![bytemakersbanner](bytemakersbanner.png)
+![bytemakersbanner](../bytemakersbanner.png)
 
 ##  ByteMakers
 
