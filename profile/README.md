@@ -1,4 +1,4 @@
-<img src="../bytemakersbanner.png" alt="profile-readme-banner"
+<img src="https://dvstechlabsassets.vercel.app/ByteMakers/bytemakersbanner.png" alt="profile-readme-banner"
     style="width: 100%; height: auto;" />
 
 ##  ByteMakers
