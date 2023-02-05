@@ -3,7 +3,9 @@
 
 ##  ByteMakers
 
-Welcome to ByteMakers!!! 👋 Here You'll Find All The Community Open Source Of ByteMakers.
+Welcome to ByteMakers!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
+Here You'll Find All The Community Open Source Of ByteMakers.
 
 ### Building the future, Byte by Byte.
 
