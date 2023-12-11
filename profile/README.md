@@ -1,6 +1,3 @@
-<img src="https://cdn.bytemakers.stonecss.com/brandassets/bytemakersbanner.png" alt="profile-readme-banner"
-    style="width: 100%; height: auto;" />
-
 ## Welcome to ByteMakers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Here You'll Find The Open Source Community Of ByteMakers.
 
